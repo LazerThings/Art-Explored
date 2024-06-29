@@ -1,2 +1,2 @@
-# Art-Explored
-Minecraft mod for art blocks!
+# Art Explored
+Minecraft mod for art blocks! modrinth.com/mod/art-explored
