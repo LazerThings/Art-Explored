@@ -1,0 +1,161 @@
+{
+  "mod_elements": [
+    {
+      "name": "RosesWallpaper",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roses_wallpaper",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/artexplored/block/RosesWallpaperBlock.java",
+          "src/main/resources/data/artblocks/loot_tables/blocks/roses_wallpaper.json",
+          "src/main/resources/assets/artblocks/models/item/roses_wallpaper.json",
+          "src/main/resources/assets/artblocks/models/block/roses_wallpaper.json",
+          "src/main/resources/assets/artblocks/blockstates/roses_wallpaper.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueYellowStripeBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_yellow_stripe_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/artblocks/loot_tables/blocks/blue_yellow_stripe_block.json",
+          "src/main/resources/assets/artblocks/models/item/blue_yellow_stripe_block.json",
+          "src/main/resources/assets/artblocks/models/block/blue_yellow_stripe_block.json",
+          "src/main/java/net/mcreator/artexplored/block/BlueYellowStripeBlockBlock.java",
+          "src/main/resources/assets/artblocks/blockstates/blue_yellow_stripe_block.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkGreenStripeBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_green_stripe_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/artblocks/loot_tables/blocks/pink_green_stripe_block.json",
+          "src/main/resources/assets/artblocks/models/block/pink_green_stripe_block.json",
+          "src/main/resources/assets/artblocks/models/item/pink_green_stripe_block.json",
+          "src/main/resources/assets/artblocks/blockstates/pink_green_stripe_block.json",
+          "src/main/java/net/mcreator/artexplored/block/PinkGreenStripeBlockBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ArtBlocks",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "art_blocks",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "RedPolkaDotBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_polka_dot_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/artblocks/loot_tables/blocks/red_polka_dot_block.json",
+          "src/main/java/net/mcreator/artexplored/block/RedPolkaDotBlockBlock.java",
+          "src/main/resources/assets/artblocks/models/block/red_polka_dot_block.json",
+          "src/main/resources/assets/artblocks/models/item/red_polka_dot_block.json",
+          "src/main/resources/assets/artblocks/blockstates/red_polka_dot_block.json"
+        ]
+      }
+    },
+    {
+      "name": "MonsterFaceBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monster_face_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/artblocks/blockstates/monster_face_block.json",
+          "src/main/resources/assets/artblocks/models/item/monster_face_block.json",
+          "src/main/java/net/mcreator/artexplored/block/MonsterFaceBlockBlock.java",
+          "src/main/resources/data/artblocks/loot_tables/blocks/monster_face_block.json",
+          "src/main/resources/assets/artblocks/models/block/monster_face_block.json"
+        ]
+      }
+    },
+    {
+      "name": "RealisticYellowOrangeRingedBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "realistic_yellow_orange_ringed_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/artblocks/models/block/realistic_yellow_orange_ringed_block.json",
+          "src/main/java/net/mcreator/artexplored/block/RealisticYellowOrangeRingedBlockBlock.java",
+          "src/main/resources/assets/artblocks/models/item/realistic_yellow_orange_ringed_block.json",
+          "src/main/resources/assets/artblocks/blockstates/realistic_yellow_orange_ringed_block.json",
+          "src/main/resources/data/artblocks/loot_tables/blocks/realistic_yellow_orange_ringed_block.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "item_group.wallpapers_explored.art_blocks": "Art Blocks",
+      "block.wallpapers_explored.roses_wallpaper": "Roses Art Block",
+      "block.wallpapers_explored.monster_face_block": "Blue Yellow Stripe Block",
+      "block.artblocks.red_polka_dot_block": "Blue Yellow Stripe Block",
+      "block.artblocks.pink_green_stripe_block": "Blue Yellow Stripe Block",
+      "block.wallpapers_explored.pink_green_stripe_block": "Blue Yellow Stripe Block",
+      "item_group.artblocks.art_blocks": "Art Blocks",
+      "block.wallpapers_explored.red_polka_dot_block": "Blue Yellow Stripe Block",
+      "block.wallpapers_explored.realistic_yellow_orange_ringed_block": "Blue Yellow Stripe Block",
+      "block.artblocks.roses_wallpaper": "Roses Art Block",
+      "block.artblocks.monster_face_block": "Blue Yellow Stripe Block",
+      "block.artblocks.blue_yellow_stripe_block": "Blue Yellow Stripe Block",
+      "block.wallpapers_explored.blue_yellow_stripe_block": "Blue Yellow Stripe Block",
+      "block.artblocks.realistic_yellow_orange_ringed_block": "Blue Yellow Stripe Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "artblocks",
+    "modName": "Art Explored",
+    "version": "1.0.0",
+    "description": "Adds art blocks!",
+    "author": "PurpleRobot",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "blueyellowstripeblock",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created with MCreator",
+    "modElementsPackage": "net.mcreator.artexplored"
+  },
+  "mcreatorVersion": 202400118518
+}

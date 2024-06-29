@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "artblocks:block/pinkgreenstripeblock",
+    "up": "artblocks:block/pinkgreenstripeblock",
+    "north": "artblocks:block/pinkgreenstripeblock",
+    "east": "artblocks:block/pinkgreenstripeblock",
+    "south": "artblocks:block/pinkgreenstripeblock",
+    "west": "artblocks:block/pinkgreenstripeblock",
+    "particle": "artblocks:block/pinkgreenstripeblock"
+  },
+  "render_type": "solid"
+}

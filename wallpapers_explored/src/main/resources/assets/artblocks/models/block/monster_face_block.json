@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "artblocks:block/monsterfaceblock",
+    "up": "artblocks:block/monsterfaceblock",
+    "north": "artblocks:block/monsterfaceblock",
+    "east": "artblocks:block/monsterfaceblock",
+    "south": "artblocks:block/monsterfaceblock",
+    "west": "artblocks:block/monsterfaceblock",
+    "particle": "artblocks:block/monsterfaceblock"
+  },
+  "render_type": "solid"
+}

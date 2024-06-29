@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "artblocks:blocks/realistic_yellow_orange_ringed_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artblocks:realistic_yellow_orange_ringed_block"
+        }
+      ]
+    }
+  ]
+}

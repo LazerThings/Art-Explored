@@ -1,0 +1,65 @@
+{
+  "mod_elements": [
+    {
+      "name": "RosesWallpaper",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roses_wallpaper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/roses_wallpaper.json",
+          "src/main/java/net/mcreator/wallpapersexplored/block/RosesWallpaperBlock.java",
+          "src/main/resources/assets/wallpapers_explored/models/item/roses_wallpaper.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/roses_wallpaper.json",
+          "src/main/resources/assets/wallpapers_explored/blockstates/roses_wallpaper.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueYellowStripeBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_yellow_stripe_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/wallpapersexplored/block/BlueYellowStripeBlockBlock.java",
+          "src/main/resources/assets/wallpapers_explored/blockstates/blue_yellow_stripe_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/blue_yellow_stripe_block.json",
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/blue_yellow_stripe_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/item/blue_yellow_stripe_block.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "block.wallpapers_explored.roses_wallpaper": "Roses Art Block",
+      "block.wallpapers_explored.blue_yellow_stripe_block": "Blue Yellow Stripe Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "wallpapers_explored",
+    "modName": "Wallpapers Explored",
+    "version": "1.0.0",
+    "author": "gibson, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.wallpapersexplored"
+  },
+  "mcreatorVersion": 202400118518
+}

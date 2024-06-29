@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "artblocks:block/redpolkadotblock",
+    "up": "artblocks:block/redpolkadotblock",
+    "north": "artblocks:block/redpolkadotblock",
+    "east": "artblocks:block/redpolkadotblock",
+    "south": "artblocks:block/redpolkadotblock",
+    "west": "artblocks:block/redpolkadotblock",
+    "particle": "artblocks:block/redpolkadotblock"
+  },
+  "render_type": "solid"
+}

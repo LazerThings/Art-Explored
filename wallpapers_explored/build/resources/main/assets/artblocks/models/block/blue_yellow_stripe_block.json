@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "artblocks:block/blueyellowstripeblock",
+    "up": "artblocks:block/blueyellowstripeblock",
+    "north": "artblocks:block/blueyellowstripeblock",
+    "east": "artblocks:block/blueyellowstripeblock",
+    "south": "artblocks:block/blueyellowstripeblock",
+    "west": "artblocks:block/blueyellowstripeblock",
+    "particle": "artblocks:block/blueyellowstripeblock"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,132 @@
+{
+  "mod_elements": [
+    {
+      "name": "RosesWallpaper",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roses_wallpaper",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/roses_wallpaper.json",
+          "src/main/java/net/mcreator/wallpapersexplored/block/RosesWallpaperBlock.java",
+          "src/main/resources/assets/wallpapers_explored/models/item/roses_wallpaper.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/roses_wallpaper.json",
+          "src/main/resources/assets/wallpapers_explored/blockstates/roses_wallpaper.json"
+        ]
+      }
+    },
+    {
+      "name": "BlueYellowStripeBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_yellow_stripe_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/wallpapersexplored/block/BlueYellowStripeBlockBlock.java",
+          "src/main/resources/assets/wallpapers_explored/blockstates/blue_yellow_stripe_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/blue_yellow_stripe_block.json",
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/blue_yellow_stripe_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/item/blue_yellow_stripe_block.json"
+        ]
+      }
+    },
+    {
+      "name": "PinkGreenStripeBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_green_stripe_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/pink_green_stripe_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/pink_green_stripe_block.json",
+          "src/main/java/net/mcreator/wallpapersexplored/block/PinkGreenStripeBlockBlock.java",
+          "src/main/resources/assets/wallpapers_explored/models/item/pink_green_stripe_block.json",
+          "src/main/resources/assets/wallpapers_explored/blockstates/pink_green_stripe_block.json"
+        ]
+      }
+    },
+    {
+      "name": "ArtBlocks",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "art_blocks",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "RedPolkaDotBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_polka_dot_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/red_polka_dot_block.json",
+          "src/main/resources/assets/wallpapers_explored/blockstates/red_polka_dot_block.json",
+          "src/main/java/net/mcreator/wallpapersexplored/block/RedPolkaDotBlockBlock.java",
+          "src/main/resources/assets/wallpapers_explored/models/item/red_polka_dot_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/red_polka_dot_block.json"
+        ]
+      }
+    },
+    {
+      "name": "MonsterFaceBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monster_face_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/wallpapers_explored/blockstates/monster_face_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/block/monster_face_block.json",
+          "src/main/resources/assets/wallpapers_explored/models/item/monster_face_block.json",
+          "src/main/java/net/mcreator/wallpapersexplored/block/MonsterFaceBlockBlock.java",
+          "src/main/resources/data/wallpapers_explored/loot_tables/blocks/monster_face_block.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "item_group.wallpapers_explored.art_blocks": "Art Blocks",
+      "block.wallpapers_explored.roses_wallpaper": "Roses Art Block",
+      "block.wallpapers_explored.red_polka_dot_block": "Blue Yellow Stripe Block",
+      "block.wallpapers_explored.monster_face_block": "Blue Yellow Stripe Block",
+      "block.wallpapers_explored.blue_yellow_stripe_block": "Blue Yellow Stripe Block",
+      "block.wallpapers_explored.pink_green_stripe_block": "Blue Yellow Stripe Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "wallpapers_explored",
+    "modName": "Wallpapers Explored",
+    "version": "1.0.0",
+    "author": "gibson, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.wallpapersexplored"
+  },
+  "mcreatorVersion": 202400118518
+}

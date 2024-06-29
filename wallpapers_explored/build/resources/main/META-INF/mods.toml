@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="artblocks"
+version="1.0.0"
+displayName="Art Explored"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Created with MCreator"
+authors="PurpleRobot"
+description="Adds art blocks!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.artblocks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

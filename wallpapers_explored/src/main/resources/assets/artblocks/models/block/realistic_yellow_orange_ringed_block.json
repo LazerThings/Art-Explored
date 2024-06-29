@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "artblocks:block/realisticyelloworangeringedblock",
+    "up": "artblocks:block/realisticyelloworangeringedblock",
+    "north": "artblocks:block/realisticyelloworangeringedblock",
+    "east": "artblocks:block/realisticyelloworangeringedblock",
+    "south": "artblocks:block/realisticyelloworangeringedblock",
+    "west": "artblocks:block/realisticyelloworangeringedblock",
+    "particle": "artblocks:block/realisticyelloworangeringedblock"
+  },
+  "render_type": "solid"
+}
